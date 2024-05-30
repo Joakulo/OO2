@@ -2,7 +2,7 @@ package ar.edu.unlp.info.oo2;
 
 import java.time.LocalDate;
 
-public class Aspect implements FileOO2{
+public abstract class Aspect implements FileOO2{
 
 	private FileOO2 componente;
 	
